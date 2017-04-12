@@ -1,3 +1,7 @@
+package com.BridgeLabz.Basics;
+
+
+
 class SumOf3NumZero
 {
   public static void main(String [] arg)

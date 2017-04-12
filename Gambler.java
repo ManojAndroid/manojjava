@@ -1,4 +1,7 @@
- class Gambler
+package com.BridgeLabz.Basics; 
+
+
+class Gambler
   { 
 
     public static void main(String[] args) 

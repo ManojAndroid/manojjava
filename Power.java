@@ -1,3 +1,6 @@
+package com.BridgeLabz.Basics;
+
+
 import java.util.*;
 class Power
 {
